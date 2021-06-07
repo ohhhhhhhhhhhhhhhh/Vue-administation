@@ -1,6 +1,10 @@
 # Vue-administation
  Front end and back end privilege management system
  
+## Preview https://ohhhhhhhhhhhhhhhh.github.io/Vue-administation/
+
+![Xnip2021-06-07_11-59-34](https://user-images.githubusercontent.com/66932433/120957225-e287e000-c787-11eb-8ce8-9f1479221f6e.jpg)
+
 ### Fork https://gitee.com/lizheng2000/vue-admin
 
 # vue-admin
